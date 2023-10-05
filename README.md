@@ -21,7 +21,7 @@ Press the generate button, choose the length you want the password to be, and th
 
 website: https://wnicoles.github.io/Unique-Password-Generator/
 
-![Screenshot of password generator](assets/images/Password-Generator-Image.png)
+![Screenshot of password generator](assets/images/PasswordGeneratorImage.png)
 
 ## Credits
 
