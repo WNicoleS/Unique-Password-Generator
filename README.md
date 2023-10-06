@@ -17,7 +17,7 @@ This is a helpful password generator that creates a password for the user rather
 Not necessary
 
 ## Usage
-Press the generate button, choose the length you want the password to be, and then choose what types of characters you want to be in the password.
+To generate a password click on the "generate button". When prompted, choose the length you would like your password to be. Then choose whether or not you would like to add upper case letters, lower case letters, numbers, and special characters. Your unique password will then appear.
 
 website: https://wnicoles.github.io/Unique-Password-Generator/
 
